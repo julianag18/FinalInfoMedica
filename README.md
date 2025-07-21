@@ -22,6 +22,7 @@ red neuronal/                # Carpeta raíz del proyecto de red neuronal
     └── datos_limpios.xlsx        # Subconjunto para pruebas de mejora de precisión en la red
 
 2. Descripción de archivos y carpetas
+
 2.1 red neuronal/
 Carpeta principal que agrupa todo lo relacionado con la creación, ajuste y pruebas del modelo de redes neuronales.
 
