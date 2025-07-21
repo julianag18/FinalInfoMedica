@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Predicción de GRD</title>
+</head>
+<body>
+    <h1>Formulario de Predicción de GRD</h1>
+
+    <form method="post">
+        {% csrf_token %}
+        {{ form.as_p }}
+        <button type="submit">Predecir</button>
+    </form>
+
+    {% if resultado %}
+        <h2>Resultado de la predicción:</h2>
+        <p><strong>GRD Predicho:</strong> {{ resultado }}</p>
+    {% endif %}
+</body>
+</html>
