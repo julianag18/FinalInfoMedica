@@ -1,4 +1,7 @@
 # FinalInfoMedica
+
+## ABRIR EN EDIT PARA VER LA FORMA DE LA ESTRCUTURA DE LA CARPETA
+
 Este repositorio contiene todo el código, datos y documentación necesarios para el desarrollo, entrenamiento y evaluación de un modelo de Redes Neuronales destinado a la predicción de Grupos Relacionados por el Diagnóstico (GRD).
 
 1. Estructura de directorios red neuronal
